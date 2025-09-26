@@ -222,7 +222,7 @@ function App() {
 
         {/* Footer */}
         <div className="text-center mt-12 text-gray-500">
-          <p>© 2025 Generator Cod QR - Simplu, Rapid, Securizat</p>
+          <p>© 2025 Antonio Lucian</p>
         </div>
       </div>
     </div>
